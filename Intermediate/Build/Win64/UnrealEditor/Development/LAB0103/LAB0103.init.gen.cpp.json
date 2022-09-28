@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\usfx\\4to semestre\\sis457-r\\lab01\\lab0103\\lab0103\\intermediate\\build\\win64\\unrealeditor\\inc\\lab0103\\lab0103.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\usfx\\4to semestre\\sis457-r\\lab01\\lab0103\\lab0103\\intermediate\\build\\win64\\lab0103editor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\usfx\\4to semestre\\sis457-r\\lab01\\lab0103\\lab0103\\intermediate\\build\\win64\\unrealeditor\\development\\lab0103\\definitions.lab0103.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

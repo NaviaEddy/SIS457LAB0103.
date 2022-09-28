@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-LAB0103-0009.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\USFX\4to Semestre\SIS457-R\LAB01\LAB0103\LAB0103\Intermediate\Build\Win64\LAB0103Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\USFX\4to Semestre\SIS457-R\LAB01\LAB0103\LAB0103\Intermediate\Build\Win64\UnrealEditor\Development\LAB0103\LAB0103.cpp.obj"
+"E:\USFX\4to Semestre\SIS457-R\LAB01\LAB0103\LAB0103\Intermediate\Build\Win64\UnrealEditor\Development\LAB0103\LAB0103GameModeBase.cpp.obj"
+"E:\USFX\4to Semestre\SIS457-R\LAB01\LAB0103\LAB0103\Intermediate\Build\Win64\UnrealEditor\Development\LAB0103\LAB0103.init.gen.cpp.obj"
+"E:\USFX\4to Semestre\SIS457-R\LAB01\LAB0103\LAB0103\Intermediate\Build\Win64\UnrealEditor\Development\LAB0103\LAB0103GameModeBase.gen.cpp.obj"
+"E:\USFX\4to Semestre\SIS457-R\LAB01\LAB0103\LAB0103\Intermediate\Build\Win64\UnrealEditor\Development\LAB0103\Default.rc2.res"
+/OUT:"E:\USFX\4to Semestre\SIS457-R\LAB01\LAB0103\LAB0103\Intermediate\Build\Win64\UnrealEditor\Development\LAB0103\UnrealEditor-LAB0103-0009.lib"
